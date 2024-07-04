@@ -1,5 +1,5 @@
 # Output
-<a href = "">output</a>
+<a href = "https://vizeplustv.github.io/In-development/">output</a>
 # VizePlusTV
 <a href = "https://vizeplustv.github.io/">VizePlus</a>
 # Zš Zdice
